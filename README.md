@@ -21,5 +21,9 @@ A collection of standalone desktop tools designed to make everyday tasks easier:
 
 ### 📫 Connect with me
 
-[![Discord](https://shields.io)](https://discordapp.com)
-
+<p align="left">
+  <a href="https://discord.com/users/1434533229007867914" target="_blank">
+    <img src="[![Discord](https://shields.io)](https://discord.com/users/1434533229007867914)
+" alt="Discord" />
+  </a>
+</p>
