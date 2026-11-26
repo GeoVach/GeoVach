@@ -21,9 +21,4 @@ A collection of standalone desktop tools designed to make everyday tasks easier:
 
 ### 📫 Connect with me
 
-<p align="left">
-  <a href="https://discord.com\@me\1434533229007867914" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-GeoVach-5865F2?style=for-the-badge&logo=discord&logoColor=white
-" alt="Discord" />
-  </a>
-</p>
+[![Discord](https://shields.io)](https://discord.com)
