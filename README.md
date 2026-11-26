@@ -5,7 +5,7 @@ I am a developer creating lightweight, practical desktop applications and utilit
 
 ---
 
-### 🚀 Featured Project: [SmallGeoProjects](https://github.com)
+### 🚀 Featured Project: [SmallGeoProjects](https://github.com/GeoVach/SmallGeoProjects)
 A collection of standalone desktop tools designed to make everyday tasks easier:
 * 🎮 **GeoLauncher** — A clean and simple game launcher to organize and start your games from one place.
 * ⏱️ **GeoTimer** — A handy stopwatch and countdown timer utility.
