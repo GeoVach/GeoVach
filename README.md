@@ -20,4 +20,5 @@ A collection of standalone desktop tools designed to make everyday tasks easier:
 
 
 ### 📫 Connect with me
-[![Discord](https://badgen.net)](discord://-/users/1434533229007867914)
+DISCORD:
+https://discord.com/users/1434533229007867914
