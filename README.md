@@ -17,3 +17,12 @@ A collection of standalone desktop tools designed to make everyday tasks easier:
 ### 🛠️ Tech Stack
 * **Languages:** Python
 * **Focus:** Desktop GUI Applications & Everyday Utilities
+
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://discord.com" target="_blank">
+    <img src="https://shields.io" alt="Discord" />
+  </a>
+</p>
